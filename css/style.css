@@ -116,8 +116,10 @@ body {
 
 .footer__img {
     width: 100%;
-    object-fit: contain;
+    height: 100%;
+    object-fit: cover;
     background-color: lightpink;
     padding: 2rem;
     border-top-left-radius: 4rem;
 }
+/* fin del footer */
